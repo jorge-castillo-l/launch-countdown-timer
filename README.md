@@ -48,9 +48,9 @@ Este proyecto fue desarrollado con **HTML**, **CSS** y **JavaScript puro**, sin 
 
 1. Clona este repositorio en tu computadora:
 
-   ```bash
+  ```bash
    git clone https://github.com/tu-usuario/launch-countdown-timer.git
-   ```
+  ```
 2. Abre la carpeta del proyecto:
   ```bash
   cd launch-countdown-timer
