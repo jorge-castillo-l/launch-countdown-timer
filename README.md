@@ -8,7 +8,6 @@ Este proyecto fue desarrollado con **HTML**, **CSS** y **JavaScript puro**, sin 
 
 ## 📸 Vista previa
 
-> *(Puedes agregar aquí una imagen o GIF de la app funcionando)*  
 > ![Vista previa](./assets/screenshot.png)
 
 ---
